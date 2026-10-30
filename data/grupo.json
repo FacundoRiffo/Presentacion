@@ -1,0 +1,22 @@
+[
+    {
+        "nombre": "Emiliano Gomez Olivera",
+        "rol": "Armado de JSON y fetch con Js",
+        "imagen": "img\\.gitkeep"
+    },
+    {
+        "nombre": "Facundo Riffo",
+        "rol": "Armado de HTML y modificacion del DOM",
+        "imagen": "img\\.gitkeep"
+    },
+    {
+        "nombre": "Franco Santich",
+        "rol": "Armado de HTML y modificacion del DOM",
+        "imagen": "img\\.gitkeep"
+    },
+    {
+        "nombre": "Gianfranco Ferrero",
+        "rol": "Implementacion de tema claro/oscuro",
+        "imagen": "img\\.gitkeep"
+    }
+]
