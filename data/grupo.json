@@ -9,13 +9,13 @@
         "nombre": "Facundo Riffo",
         "rol": "Armado de HTML y modificacion del DOM",
         "descripcion": "Trabajó en la estructura del HTML y en la generación de las cards del equipo desde JavaScript.",
-        "imagen": "img/placeholder.webp"
+        "imagen": "img/facundo-riffo.jpg"
     },
     {
         "nombre": "Franco Santich",
         "rol": "Armado de HTML y modificacion del DOM",
         "descripcion": "Colaboró en el maquetado con Bootstrap y en la inserción de los datos del JSON en el DOM.",
-        "imagen": "img/placeholder.webp"
+        "imagen": "img/franco-santich.jpg"
     },
     {
         "nombre": "Gianfranco Ferrero",
