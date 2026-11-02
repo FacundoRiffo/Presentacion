@@ -4,7 +4,7 @@
  */
 async function buscarGrupo() {
     try {
-        const response = await fetch('data/equipo.json');
+        const response = await fetch('data/grupo.json');
 
         if (!response.ok) {
             throw new Error(`Error en el request: ${response.status}`);
